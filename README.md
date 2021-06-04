@@ -1,6 +1,6 @@
 # Map-Application
 
-A simple Map-Application which will find your current location and,
+A simple Map-Application (purely object oriented) which will find your current location and,
 
 1. we will be able to set locations on map depending upon the workout we want to have on that location and will be able to set it.
 2. we will be able to store our all workout records on local storage along with locations
